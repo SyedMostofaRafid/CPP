@@ -1,0 +1,24 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {background-color: #000000dd;}
+  h1 {color: rgb(255, 99, 71);}
+  p {background-color: hsl(227, 74%, 47%);}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<h3>hi this is bold <i>text</i></h3>
+<p>This is a paragraph.</p>
+
+<img src="https://th.bing.com/th/id/R.62325205054ee42cbd441c7036a7e3ec?rik=RHdJrVUP%2b%2b8kmgRaw&r=0" alt="this is a meme photo" height="300" width="200">
+
+
+
+
+</body>
+</html>
